@@ -24,10 +24,10 @@ from datetime import datetime
 import glob as gb 
 from selenium_stealth import stealth
 
-path = r"C:\Users\Owner\Python,Remote,Cloud\Pinnacore"
+path =
 os.chdir(path)
 
-finalfile = "RobloxSelenium" + "_" + "{:%Y_%h_%d_%H-%M-%S}".format(datetime.now()) +".csv"
+finalfile = "_Selenium" + "_" + "{:%Y_%h_%d_%H-%M-%S}".format(datetime.now()) +".csv"
 finalfile
 
 
@@ -35,7 +35,7 @@ finalfile
 page_count=10
 results = []
 
-roblox_placeholders = ["This item found on Roblox marketplace","Last check:"]
+placeholders = ["This item found on marketplace","Last check:"]
 
 # selectors
 titleSelector = "div.item-card-name"
@@ -70,9 +70,6 @@ stealth(textDriver,
 url ="https://www.roblox.com/catalog?Category=1&CurrencyType=3&pxMin=1&salesTypeFilter=1&SortType=2&SortAggregation=3"
 
 url2 = "https://www.roblox.com/catalog?Category=1&salesTypeFilter=1&SortType=1&SortAggregation=3"
-
-# Inspect the Roblox website and figure out the number pages for rental ads use
-# In the charlotte example, there are a total of 20 pages so I set the range at 21
 
 for page in range(1,page_count+1,1):
     
