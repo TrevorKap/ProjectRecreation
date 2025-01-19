@@ -19,7 +19,7 @@ Feel free to explore the projects, provide feedback, or connect with me on Linke
 ## 🌟 Key Features
 
 ### 🔍 Urban & Environmental Focus
-Each project in this repository addresses critical issues in urban development, resource management, and environmental resilience.
+Each project in this repository addresses critical issues in urban development, resource management, and public policy.
 
 ### 📊 Advanced Data Analysis
 Projects leverage tools and methodologies such as:
@@ -28,25 +28,7 @@ Projects leverage tools and methodologies such as:
 - **Tableau**, **Power BI** for creating interactive visualizations and dashboards.
 
 ### 🌐 Interdisciplinary Problem Solving
-Combining data science, urban planning, and sustainability, these projects reflect a multidisciplinary approach to addressing real-world challenges.
-
----
-
-## 📂 Repository Structure
-
-The repository is organized into the following sections:
-
-1. **`Urban Data Science`**  
-   Advanced data analysis and modeling projects focusing on urban environments.
-
-2. **`GIS & Spatial Analysis`**  
-   Projects that demonstrate spatial data visualization and urban planning insights.
-
-3. **`Sustainability Reports`**  
-   Frameworks and analyses addressing environmental and urban sustainability.
-
-4. **`Interactive Dashboards`**  
-   Dynamic tools for exploring urban and environmental data.
+Combining data science, urban planning, and public policy, these projects reflect a multidisciplinary approach to addressing real-world challenges.
 
 ---
 
